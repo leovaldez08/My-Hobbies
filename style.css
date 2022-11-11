@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Stick+No+Bills:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+* {
+  font-family: 'Oswald', sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+h1 {
+  color: rgb(255, 0, 0);
+  text-align: center;
+  font-size: 80px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Stick No Bills', sans-serif;
+}
+h4 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 35px;
+}
+
+body {
+  background-image: url(https://res.cloudinary.com/dblpy3gli/image/upload/v1667834129/sea_rocks_moss_132634_3840x2400_wagtac.jpg);
+}
+.hobby {
+  font-size: 22px;
+  text-align: center;
+  margin: 20px;
+}
+.boxing {
+  font-size: 60px;
+  text-align: center;
+  color: rgb(255, 0, 0);
+  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Stick No Bills', sans-serif;
+}
+.img1 {
+  height: 35em;
+  width: 30em;
+  display: block;
+  margin: 0 auto;
+}
+.p1 {
+  font-size: 21px;
+  margin: 20px;
+}
+#Numismatics {
+  font-size: 60px;
+  text-align: center;
+  color: rgb(255, 0, 0);
+  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Stick No Bills', sans-serif;
+}
+.img2 {
+  height: 25em;
+  width: 40em;
+  display: block;
+  margin: 0 auto;
+}
+.p2 {
+  font-size: 21px;
+  margin: 20px;
+}
+li {
+  display: inline;
+  font-size: 35px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+nav {
+  text-align: center;
+  padding-right: 45px;
+  word-spacing: 25px;
+}
