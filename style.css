@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Stick+No+Bills:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
-* {
+body {
   font-family: 'Oswald', sans-serif;
   color: rgb(255, 255, 255);
+  background-image: url(https://res.cloudinary.com/dblpy3gli/image/upload/v1667834129/sea_rocks_moss_132634_3840x2400_wagtac.jpg);
+  position: absolute;
 }
 
 h1 {
@@ -19,9 +21,6 @@ h4 {
   font-size: 35px;
 }
 
-body {
-  background-image: url(https://res.cloudinary.com/dblpy3gli/image/upload/v1667834129/sea_rocks_moss_132634_3840x2400_wagtac.jpg);
-}
 .hobby {
   font-size: 22px;
   text-align: center;
@@ -73,6 +72,7 @@ li {
 }
 a {
   text-decoration: none;
+  color: blue;
 }
 nav {
   width: 1510px;
